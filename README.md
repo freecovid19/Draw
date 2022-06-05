@@ -4,7 +4,8 @@ Why I started this: I saw the teachers using a flash drawing program that was to
 ## Idea
 1. Simple ver. - Just button and balls
 2. Animation ver. - Like clay target shooting
+3. No ads in all versions! (I hate ads)
 ## Plan
 1. Create simple version with web
-2. Create mobile app (no ads)
+2. Create mobile app
 3. Create animation version someday...
